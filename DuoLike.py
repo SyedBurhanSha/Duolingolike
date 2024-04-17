@@ -76,7 +76,7 @@ class ProgressTracker:
 
 if __name__ == "__main__":
     # Create a user
-    user = User("john_doe", "john@example.com")
+    user = User("Ali-Ahmed", "AliAhmed@example.com")
     
     # Add predefined languages
     languages = ["German", "French", "Spanish", "Italian"]
